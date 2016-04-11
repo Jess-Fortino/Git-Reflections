@@ -1,0 +1,5 @@
+Git questions, lesson 2
+1.)What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository makes a .git file appear in the file, it helps
+to keep track of every change that is made in the file. 
