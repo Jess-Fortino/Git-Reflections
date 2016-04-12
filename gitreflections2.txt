@@ -22,3 +22,12 @@ and git diff --staged (which allows you to look at the
 differences between the staging area and the most recent commit)
 will allow you to make sure that what you are commiting is in fact
 a logical change.
+
+4.) What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+
+Branches would be helpful if you're thinking of experimenting
+with a new feature or a new spin on your webpage. Branches
+could keep your work organized and separated by allowing you to
+work on the same project in different ways without ruining
+the original file/project.
