@@ -31,3 +31,11 @@ with a new feature or a new spin on your webpage. Branches
 could keep your work organized and separated by allowing you to
 work on the same project in different ways without ruining
 the original file/project.
+
+5.) How do the diagrams help you visualize the branch structure?
+
+Writing everything out is definitely helpful in the sense
+that it lets you look at the bigger picture. You could end up
+with a dozen different branches, this could get complicated.
+Drawing it out will help you keep track of what you have added
+to each branch, when to merge the branches ect.
