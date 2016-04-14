@@ -39,3 +39,16 @@ that it lets you look at the bigger picture. You could end up
 with a dozen different branches, this could get complicated.
 Drawing it out will help you keep track of what you have added
 to each branch, when to merge the branches ect.
+
+6.) What is the result of merging two branches toegher? Why
+do we represent it in the diagram the way we do?
+
+The result of merging two branches together is permenately
+adding features that were previously branched away from the master
+branch. This effectively deletes the label from one branch
+and keeps the commits in the master branch so you don't lose
+detailed information about updates to the file(s). We
+represent it in the diagram so that we can fully understand
+the process Git goes through when it merges the two branches.
+It also helps you keep an eye on when to merge and why now is
+the best time to merge.
