@@ -40,10 +40,10 @@ with a dozen different branches, this could get complicated.
 Drawing it out will help you keep track of what you have added
 to each branch, when to merge the branches ect.
 
-6.) What is the result of merging two branches toegher? Why
+6.) What is the result of merging two branches together? Why
 do we represent it in the diagram the way we do?
 
-The result of merging two branches together is permenately
+The result of merging two branches together is permanently
 adding features that were previously branched away from the master
 branch. This effectively deletes the label from one branch
 and keeps the commits in the master branch so you don't lose
@@ -52,3 +52,14 @@ represent it in the diagram so that we can fully understand
 the process Git goes through when it merges the two branches.
 It also helps you keep an eye on when to merge and why now is
 the best time to merge.
+
+7.) What are the pros and cons of Git's automatic merging vs
+always doing merges manually?
+
+The pros of automatic merging is that it is done quickly, you
+do not need to go through each line of code on your own to see
+what matches and what doesn't. The merge conflicts are very
+helpful in that it points out to you where the conflict
+actually is. The cons of automatic merging, is that it is
+possible that git will delete some lines of code, this is
+something that you need to watch out for.
