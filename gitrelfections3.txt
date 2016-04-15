@@ -3,3 +3,12 @@
 When you are working on more than one computer, or when you are working with a collaborator.
 Plus there is always that frightening moment if you're computer freezes or crashes and you lose
 everything you were just working on.
+
+2.) Why might you always want to pull changes manually rather
+than having Git automatically stay up-to-date with your
+remote repository?
+
+Because you may have made changes to either repository,
+local or on github that you don't want transferred yet.
+Manually updating ensures that you have everything you want
+in either version of the repository.
