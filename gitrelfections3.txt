@@ -43,3 +43,11 @@ the same file at the same time. It would definitely take longer
 and you wouldn't know what changes were made to what file
 and when without a detailed description of the changes. Which can
 be achieved much easier just be viewing commits.
+
+6.) When would you want to make changes in a separate branch
+rather than directly in master? What benefits does each
+approach have?
+
+When there needs to be some kind of collaboration about the
+change, when you're not quite ready to change anything without
+getting feedback. This will help any collaborative effort.
