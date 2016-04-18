@@ -31,4 +31,15 @@ pull an idea from it.
 of the remote stored locally?
 
 So you know what the most recent changes have been, especially
-if you're working collaboratively. 
+if you're working collaboratively.
+
+5.) How would you collaborate without using Git or Github?
+Would it be easier, and what would be harder?
+
+To collaborate without Git or Github you would have to save
+the same file and send it back and forth between the collaborators.
+This would be pretty difficult because you couldn't work on
+the same file at the same time. It would definitely take longer
+and you wouldn't know what changes were made to what file
+and when without a detailed description of the changes. Which can
+be achieved much easier just be viewing commits.
