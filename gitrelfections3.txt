@@ -26,3 +26,9 @@ branches if you are working on something you know will be integrated
 or that you think you'd like to do. You clone or fork, when you
 either want to use an idea from that file, or when you want to
 pull an idea from it.
+
+4.) What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+So you know what the most recent changes have been, especially
+if you're working collaboratively. 
